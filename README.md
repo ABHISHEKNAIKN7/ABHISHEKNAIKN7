@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Hey,%20I'm%20Abhishek&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20MERN%20Stack%20•%20Scalable%20Systems&descSize=20&descAlignY=55)](https://github.com/ABHISHEKNAIKN7)
 
-# 🚀 Abhishek K — Full Stack Engineer  
+# 🚀 Abhishek K — Full Stack Engineer 
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhisheknaikn7&label=Profile%20views&color=0e75b6)
 ![GitHub followers](https://img.shields.io/github/followers/abhisheknaikn7?style=flat&logo=github)
